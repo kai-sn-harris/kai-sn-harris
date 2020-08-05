@@ -1,7 +1,7 @@
 ### Hi, I'm Kai - aka reyalsyssup 👋
 
 ## I'm a developer!
-- 🔭 I’m currently working on a discord clone[website]!
+- 🔭 I’m currently working on a discord clone!
 - 🌱 I’m currently learning backend development and c++
 - 🎷 Fun fact: I play 3 instruments, saxophone, clarinet, and piano
 
