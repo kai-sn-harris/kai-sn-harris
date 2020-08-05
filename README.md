@@ -2,7 +2,7 @@
 
 ## I'm a developer!
 - 🔭 I’m currently working on a discord clone!
-- 🌱 I’m currently learning backend development and c++
+- 🌱 I’m currently learning backend development, react, and c++
 - 🎷 Fun fact: I play 3 instruments: saxophone, clarinet, and piano
 
 <br />
@@ -19,6 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="python" width="26px" src="https://lh3.googleusercontent.com/proxy/uV6u0QEotQNIhGHZPWCieyR25bXsR_svV-A6QlPgdvUtUC-5cftVQAX3VWt_hBgvcSJEIXptAwllkD41MNirfh2DgbPRq1kjlh4_mOiU47dn1EIWC8E" />
 
 <br />
 <br />
