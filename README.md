@@ -3,7 +3,7 @@
 ## I'm a developer!
 - 🔭 I’m currently working on a discord clone!
 - 🌱 I’m currently learning backend development and c++
-- 🎷 Fun fact: I play 3 instruments, saxophone, clarinet, and piano
+- 🎷 Fun fact: I play 3 instruments: saxophone, clarinet, and piano
 
 <br />
 
