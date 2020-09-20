@@ -1,8 +1,8 @@
 ### Hi, I'm Kai - aka reyalsyssup 👋
 
 ## I'm a developer!
-- 🔭 I’m currently working on a game site, similar to steam with https://github.com/lukas-cag
-- 🌱 I’m currently learning backend development, react, C++, and C#
+- 🔭 I’m currently working on a game site, similar to steam with https://github.com/lukas-cag, and a blog application
+- 🌱 I’m currently learning backend development, react, C#, and golang
 - 🎷 Fun fact: I play 3 instruments: saxophone, clarinet, and piano
 
 <br />
