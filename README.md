@@ -1,9 +1,7 @@
 ### Hi, I'm Kai - aka reyalsyssup 👋
 
-## I'm a developer!
-- 🔭 I’m currently working on a  a blog application
-- 🌱 I’m currently learning OpenGL with c/c++
-- 🎷 Fun fact: I play 3 instruments: saxophone, clarinet, and piano
+## Current Projects
+- 🔭 I’m currently working on an interpreter using c++
 
 <br />
 
