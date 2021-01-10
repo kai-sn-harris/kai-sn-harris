@@ -1,7 +1,8 @@
 ### Hi, I'm Kai - aka reyalsyssup 👋
 
 ## Current Projects
-- 🔭 I’m currently working on an interpreter using c++
+- 🔭 Interpreter using c++
+- 🌿 Fitness app on a MERN stack
 
 <br />
 
