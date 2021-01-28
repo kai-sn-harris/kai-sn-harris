@@ -2,7 +2,7 @@
 
 ## Current Projects
 - 🔭 Pascal interpreter using c++
-- 🌿 Fitness app on a MERN stack
+- 🌿 JSON parser for c++
 
 <br />
 
