@@ -1,7 +1,7 @@
 ### Hi, I'm Kai - aka reyalsyssup 👋
 
 ## Current Projects
-- 🔭 Pascal interpreter using c++
+- 🔭 CHIP-8 emulator in c++
 - 🌿 JSON parser for c++
 
 <br />
