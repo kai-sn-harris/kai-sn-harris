@@ -1,6 +1,5 @@
 ## Current Projects
-- 🔭 Various side projects I will never end up completing because I grossly underestimate the amount of effort required
-- 🌿 JSON parser for c++
+- University is making time for projects rather limited
 
 <br />
 
